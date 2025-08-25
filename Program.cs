@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace ConsoleApp1
+namespace Assignment2
 {
 
     public class BooleanCheck
